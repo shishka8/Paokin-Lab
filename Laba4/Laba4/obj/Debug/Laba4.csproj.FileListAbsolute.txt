@@ -1,0 +1,10 @@
+C:\Users\шишка\Desktop\Labaratorniye_Paokin\Laba4\Laba4\bin\Debug\Laba4.exe.config
+C:\Users\шишка\Desktop\Labaratorniye_Paokin\Laba4\Laba4\bin\Debug\Laba4.exe
+C:\Users\шишка\Desktop\Labaratorniye_Paokin\Laba4\Laba4\bin\Debug\Laba4.pdb
+C:\Users\шишка\Desktop\Labaratorniye_Paokin\Laba4\Laba4\obj\Debug\Laba4.csproj.AssemblyReference.cache
+C:\Users\шишка\Desktop\Labaratorniye_Paokin\Laba4\Laba4\obj\Debug\Laba4.Form1.resources
+C:\Users\шишка\Desktop\Labaratorniye_Paokin\Laba4\Laba4\obj\Debug\Laba4.Properties.Resources.resources
+C:\Users\шишка\Desktop\Labaratorniye_Paokin\Laba4\Laba4\obj\Debug\Laba4.csproj.GenerateResource.cache
+C:\Users\шишка\Desktop\Labaratorniye_Paokin\Laba4\Laba4\obj\Debug\Laba4.csproj.CoreCompileInputs.cache
+C:\Users\шишка\Desktop\Labaratorniye_Paokin\Laba4\Laba4\obj\Debug\Laba4.exe
+C:\Users\шишка\Desktop\Labaratorniye_Paokin\Laba4\Laba4\obj\Debug\Laba4.pdb
